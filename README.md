@@ -1,4 +1,4 @@
-# Calculadora-Básica en Java. #
+# Calculadora-Básica en Java. (Actividad propuesta para clase día 17/12/21).
 
 ### **Formación con ADF en AYI Group.** ###
 
