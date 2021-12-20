@@ -1,11 +1,12 @@
-# Calculadora-Basica
+# Calculadora-Basica en Java. #
+
+### **Formación con ADF en AYI Group.** ###
 
 
- ### **Formación con ADF en AYI Group.** ###
 Profesor:
-**PALIZA, Martin.**  
+**Paliza, Martin.**  
 
-Itegrante: **Gatica , Emmanuel David.**
+Integrante: **Gatica , Emmanuel David.**
 
 ## Desarrollamos una aplicación en Java la cual consiste en: ##
 
