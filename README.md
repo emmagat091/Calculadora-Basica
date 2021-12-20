@@ -2,7 +2,7 @@
 
 
 
-## Desarrollamos una aplicación en Java la cual consiste en:
+## Desarrollamos una aplicación en Java la cual consiste en: ##
 
 Utilizar la opción de:Java desktop  application.
 Se utiliza la librería de Swing/AWT --> New Java application , para el desarrollo del proyecto.
