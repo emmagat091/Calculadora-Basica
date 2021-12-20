@@ -1,4 +1,4 @@
-# Calculadora-Basica en Java. #
+# Calculadora-Básica en Java. #
 
 ### **Formación con ADF en AYI Group.** ###
 
@@ -10,7 +10,7 @@ Integrante: **Gatica , Emmanuel David.**
 
 ## Desarrollamos una aplicación en Java la cual consiste en: ##
 
-Utilizar la opción de:Java desktop  application.
+Utilizar la opción de:Java desktop application.
 Se utiliza la librería de Swing/AWT --> New Java application , para el desarrollo del proyecto.
 La aplicación va a utilizar distintos componentes de la paleta como: **JLabel,JButton,JTextField.**
 
@@ -24,15 +24,15 @@ Pasos:
 
 4)  Comenzamos a programar los distintos elementos de la app.
 
-### **¿Qué programamos en la aplicacion?** ###
+### **¿Qué programamos en la aplicación?** ###
 
 Se programa el comportamiento de cada uno de los botones utilizados.
 Suma.
 Resta.
 Producto o multiplicación.
 División o cociente.
-Boton Nuevo.
-Boton Salir.
+Botón Nuevo.
+Botón Salir.
 
 #### Cosas a mejorar: ####
 
